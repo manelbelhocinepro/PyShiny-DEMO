@@ -1,0 +1,33 @@
+@import url('https://fronts.googlepis.com/css2?family=Roboto:wgh@100;400&display=swap');
+
+
+h1, h2, h3, h4, h5, h6{
+	font-family: 'Roboto', sans-serif;
+
+}
+
+p{
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100;
+}
+
+
+body{
+	font-family: 'Roboto', sans-serif;
+	font-size: 100;
+}
+.card-body.flex-fill {
+	background-color: rgb(245, 191, 98);
+}
+  
+.nav-pills .nav-link.active{
+    background-color: #fdbd0d;
+}
+.nav-link, .nav-tabs>li>a, .nav-pills>li>a, ul.nav.navbar-nav>li>a {
+
+    color: #000206;
+}
+.nav-pills>li>a.active{
+	color: #000206;
+
+}
