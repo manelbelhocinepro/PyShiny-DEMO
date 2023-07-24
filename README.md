@@ -53,7 +53,6 @@ To run the Shiny Python Dashboard on your local machine, please follow these ste
    ```bash
    pip install -r requirements.txt
    ```
-  ![Shiny Python Dashboard2](dashboard2.png)
 
 6. Run the application:
 
@@ -61,8 +60,10 @@ To run the Shiny Python Dashboard on your local machine, please follow these ste
    python app.py
    ```
    If you are using Visual Studio Code, you can click on the play button : Run Shiny App
+   ![Shiny Python Dashboard2](dashboard2.png)
 
-7. Open your web browser and go to `http://localhost:XXXX` to access the Shiny Python Dashboard.
+
+8. Open your web browser and go to `http://localhost:XXXX` to access the Shiny Python Dashboard.
 
 ## Data
 
