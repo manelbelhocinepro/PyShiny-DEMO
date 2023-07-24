@@ -60,6 +60,7 @@ To run the Shiny Python Dashboard on your local machine, please follow these ste
    python app.py
    ```
    If you are using Visual Studio Code, you can click on the play button : Run Shiny App
+   
    ![Shiny Python Dashboard2](dashboard2.png)
 
 
